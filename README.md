@@ -1,5 +1,7 @@
 ## Guideline
 
 ```bash
-ffmpeg -i input.mp4 output.mp3
+pip install -r requirements.txt
+
+python extract_audio.py
 ```

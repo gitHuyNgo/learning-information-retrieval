@@ -1,0 +1,166 @@
+{
+    "input_path": "keyframes\\0025.jpg",
+    "page_index": null,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_textline_orientation": false
+    },
+    "dt_polys": [
+        [
+            [
+                45,
+                34
+            ],
+            [
+                286,
+                36
+            ],
+            [
+                286,
+                71
+            ],
+            [
+                45,
+                68
+            ]
+        ],
+        [
+            [
+                48,
+                97
+            ],
+            [
+                407,
+                97
+            ],
+            [
+                407,
+                121
+            ],
+            [
+                48,
+                121
+            ]
+        ],
+        [
+            [
+                573,
+                338
+            ],
+            [
+                638,
+                341
+            ],
+            [
+                638,
+                358
+            ],
+            [
+                573,
+                356
+            ]
+        ]
+    ],
+    "text_det_params": {
+        "limit_side_len": 64,
+        "limit_type": "min",
+        "thresh": 0.3,
+        "max_side_limit": 4000,
+        "box_thresh": 0.6,
+        "unclip_ratio": 1.5
+    },
+    "text_type": "general",
+    "textline_orientation_angles": [
+        -1,
+        -1,
+        -1
+    ],
+    "text_rec_score_thresh": 0.0,
+    "return_word_box": false,
+    "rec_texts": [
+        "What you'll learn",
+        "Courses in this sequence (Specialization):",
+        "Andrew Ng"
+    ],
+    "rec_scores": [
+        0.933421790599823,
+        0.9751002192497253,
+        0.9858797788619995
+    ],
+    "rec_polys": [
+        [
+            [
+                45,
+                34
+            ],
+            [
+                286,
+                36
+            ],
+            [
+                286,
+                71
+            ],
+            [
+                45,
+                68
+            ]
+        ],
+        [
+            [
+                48,
+                97
+            ],
+            [
+                407,
+                97
+            ],
+            [
+                407,
+                121
+            ],
+            [
+                48,
+                121
+            ]
+        ],
+        [
+            [
+                573,
+                338
+            ],
+            [
+                638,
+                341
+            ],
+            [
+                638,
+                358
+            ],
+            [
+                573,
+                356
+            ]
+        ]
+    ],
+    "rec_boxes": [
+        [
+            45,
+            34,
+            286,
+            71
+        ],
+        [
+            48,
+            97,
+            407,
+            121
+        ],
+        [
+            573,
+            338,
+            638,
+            358
+        ]
+    ]
+}

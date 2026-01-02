@@ -1,0 +1,211 @@
+{
+    "input_path": "keyframes\\0034.jpg",
+    "page_index": null,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_textline_orientation": false
+    },
+    "dt_polys": [
+        [
+            [
+                47,
+                37
+            ],
+            [
+                285,
+                37
+            ],
+            [
+                285,
+                69
+            ],
+            [
+                47,
+                69
+            ]
+        ],
+        [
+            [
+                48,
+                99
+            ],
+            [
+                406,
+                99
+            ],
+            [
+                406,
+                120
+            ],
+            [
+                48,
+                120
+            ]
+        ],
+        [
+            [
+                46,
+                121
+            ],
+            [
+                408,
+                122
+            ],
+            [
+                408,
+                143
+            ],
+            [
+                46,
+                142
+            ]
+        ],
+        [
+            [
+                573,
+                339
+            ],
+            [
+                638,
+                343
+            ],
+            [
+                638,
+                357
+            ],
+            [
+                573,
+                354
+            ]
+        ]
+    ],
+    "text_det_params": {
+        "limit_side_len": 64,
+        "limit_type": "min",
+        "thresh": 0.3,
+        "max_side_limit": 4000,
+        "box_thresh": 0.6,
+        "unclip_ratio": 1.5
+    },
+    "text_type": "general",
+    "textline_orientation_angles": [
+        -1,
+        -1,
+        -1,
+        -1
+    ],
+    "text_rec_score_thresh": 0.0,
+    "return_word_box": false,
+    "rec_texts": [
+        "What you'll learn",
+        "Courses in this sequence (Specialization:",
+        "1.Neural Networks and Deep Learning",
+        "Andrew Ng"
+    ],
+    "rec_scores": [
+        0.9353808760643005,
+        0.9664132595062256,
+        0.9382835626602173,
+        0.9521492719650269
+    ],
+    "rec_polys": [
+        [
+            [
+                47,
+                37
+            ],
+            [
+                285,
+                37
+            ],
+            [
+                285,
+                69
+            ],
+            [
+                47,
+                69
+            ]
+        ],
+        [
+            [
+                48,
+                99
+            ],
+            [
+                406,
+                99
+            ],
+            [
+                406,
+                120
+            ],
+            [
+                48,
+                120
+            ]
+        ],
+        [
+            [
+                46,
+                121
+            ],
+            [
+                408,
+                122
+            ],
+            [
+                408,
+                143
+            ],
+            [
+                46,
+                142
+            ]
+        ],
+        [
+            [
+                573,
+                339
+            ],
+            [
+                638,
+                343
+            ],
+            [
+                638,
+                357
+            ],
+            [
+                573,
+                354
+            ]
+        ]
+    ],
+    "rec_boxes": [
+        [
+            47,
+            37,
+            285,
+            69
+        ],
+        [
+            48,
+            99,
+            406,
+            120
+        ],
+        [
+            46,
+            121,
+            408,
+            143
+        ],
+        [
+            573,
+            339,
+            638,
+            357
+        ]
+    ]
+}

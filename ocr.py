@@ -1,8 +1,8 @@
 from pathlib import Path
 from paddleocr import PaddleOCR
 
-DATA_PATH = Path("./keyframes")
-OUTPUT_PATH = Path("./output")
+DATA_PATH = Path("./output_data/frames")
+OUTPUT_PATH = Path("./output_data/map_frames")
 OUTPUT_PATH.mkdir(exist_ok=True)
 
 ocr = PaddleOCR(

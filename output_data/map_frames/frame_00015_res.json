@@ -1,0 +1,121 @@
+{
+    "input_path": "output_data\\frames\\frame_00015.jpg",
+    "page_index": null,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_textline_orientation": false
+    },
+    "dt_polys": [
+        [
+            [
+                503,
+                129
+            ],
+            [
+                563,
+                131
+            ],
+            [
+                563,
+                145
+            ],
+            [
+                503,
+                143
+            ]
+        ],
+        [
+            [
+                68,
+                262
+            ],
+            [
+                202,
+                264
+            ],
+            [
+                202,
+                284
+            ],
+            [
+                68,
+                282
+            ]
+        ]
+    ],
+    "text_det_params": {
+        "limit_side_len": 64,
+        "limit_type": "min",
+        "thresh": 0.3,
+        "max_side_limit": 4000,
+        "box_thresh": 0.6,
+        "unclip_ratio": 1.5
+    },
+    "text_type": "general",
+    "textline_orientation_angles": [
+        -1,
+        -1
+    ],
+    "text_rec_score_thresh": 0.0,
+    "return_word_box": false,
+    "rec_texts": [
+        "Welcome",
+        "deeplearning.ai"
+    ],
+    "rec_scores": [
+        0.9668415784835815,
+        0.9893714189529419
+    ],
+    "rec_polys": [
+        [
+            [
+                503,
+                129
+            ],
+            [
+                563,
+                131
+            ],
+            [
+                563,
+                145
+            ],
+            [
+                503,
+                143
+            ]
+        ],
+        [
+            [
+                68,
+                262
+            ],
+            [
+                202,
+                264
+            ],
+            [
+                202,
+                284
+            ],
+            [
+                68,
+                282
+            ]
+        ]
+    ],
+    "rec_boxes": [
+        [
+            503,
+            129,
+            563,
+            145
+        ],
+        [
+            68,
+            262,
+            202,
+            284
+        ]
+    ]
+}

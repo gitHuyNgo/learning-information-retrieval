@@ -1,0 +1,211 @@
+{
+    "input_path": "output_data\\frames\\frame_00150.jpg",
+    "page_index": null,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_textline_orientation": false
+    },
+    "dt_polys": [
+        [
+            [
+                46,
+                36
+            ],
+            [
+                284,
+                38
+            ],
+            [
+                284,
+                70
+            ],
+            [
+                46,
+                67
+            ]
+        ],
+        [
+            [
+                47,
+                98
+            ],
+            [
+                406,
+                99
+            ],
+            [
+                406,
+                120
+            ],
+            [
+                47,
+                119
+            ]
+        ],
+        [
+            [
+                46,
+                121
+            ],
+            [
+                409,
+                123
+            ],
+            [
+                409,
+                143
+            ],
+            [
+                46,
+                141
+            ]
+        ],
+        [
+            [
+                574,
+                339
+            ],
+            [
+                638,
+                343
+            ],
+            [
+                637,
+                358
+            ],
+            [
+                573,
+                355
+            ]
+        ]
+    ],
+    "text_det_params": {
+        "limit_side_len": 64,
+        "limit_type": "min",
+        "thresh": 0.3,
+        "max_side_limit": 4000,
+        "box_thresh": 0.6,
+        "unclip_ratio": 1.5
+    },
+    "text_type": "general",
+    "textline_orientation_angles": [
+        -1,
+        -1,
+        -1,
+        -1
+    ],
+    "text_rec_score_thresh": 0.0,
+    "return_word_box": false,
+    "rec_texts": [
+        "What you'll learn",
+        "Courses in this sequence (Specialization):",
+        "1.Neural Networks and Deep Learning",
+        "Andrew Ng"
+    ],
+    "rec_scores": [
+        0.9523978233337402,
+        0.9916444420814514,
+        0.9633312821388245,
+        0.9719393253326416
+    ],
+    "rec_polys": [
+        [
+            [
+                46,
+                36
+            ],
+            [
+                284,
+                38
+            ],
+            [
+                284,
+                70
+            ],
+            [
+                46,
+                67
+            ]
+        ],
+        [
+            [
+                47,
+                98
+            ],
+            [
+                406,
+                99
+            ],
+            [
+                406,
+                120
+            ],
+            [
+                47,
+                119
+            ]
+        ],
+        [
+            [
+                46,
+                121
+            ],
+            [
+                409,
+                123
+            ],
+            [
+                409,
+                143
+            ],
+            [
+                46,
+                141
+            ]
+        ],
+        [
+            [
+                574,
+                339
+            ],
+            [
+                638,
+                343
+            ],
+            [
+                637,
+                358
+            ],
+            [
+                573,
+                355
+            ]
+        ]
+    ],
+    "rec_boxes": [
+        [
+            46,
+            36,
+            284,
+            70
+        ],
+        [
+            47,
+            98,
+            406,
+            120
+        ],
+        [
+            46,
+            121,
+            409,
+            143
+        ],
+        [
+            573,
+            339,
+            638,
+            358
+        ]
+    ]
+}

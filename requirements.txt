@@ -1,3 +1,4 @@
 faster_whisper
 paddleocr
 paddlepaddle
+scenedetect[opencv]
